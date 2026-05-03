@@ -1,6 +1,5 @@
  require('dotenv').config();
 const express = require('express');
-const mongoose = require('mongoose');
 const cors = require('cors');
 const multer = require('multer');
 const path = require('path');
@@ -14,12 +13,6 @@ app.use(express.json());
 // Mở cửa thư mục /uploads ra Internet để trang Admin có thể xem được PDF
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 
-// ==========================================
-// 1. KẾT NỐI MONGODB
-// ==========================================
-mongoose.connect(process.env.MONGO_URI)
-    .then(() => console.log('🟢 Đã kết nối thành công tới Database MongoDB!'))
-    .catch(err => console.error('🔴 Lỗi kết nối Database:', err));
 
 // Định nghĩa Cấu trúc Dữ liệu Ứng viên (Schema)
 const candidateSchema = new mongoose.Schema({
