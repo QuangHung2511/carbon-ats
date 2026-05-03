@@ -1,0 +1,211 @@
+[
+  {
+    "id": "cv-1777804282893",
+    "name": "Thái Bảo Hoàng",
+    "phone": "0847124662",
+    "position": "Painting Specialist",
+    "cvUrl": "http://localhost:5000/uploads/1777804282857-399292361-Nguyá»n (2).pdf",
+    "aiScore": 18,
+    "isPass": false,
+    "aiReason": "Ứng viên hoàn toàn không có kinh nghiệm, kỹ năng hay nền tảng học vấn phù hợp với vị trí Chuyên viên Sơn.",
+    "createdAt": "2026-05-03T10:31:22.893Z"
+  },
+  {
+    "id": "cv-1777793800270",
+    "name": "Đinh Thanh Bình",
+    "phone": "0948124853",
+    "position": "Painting Specialist",
+    "cvUrl": "http://localhost:5000/uploads/1777793800226-869730520-Thiáº¿t káº¿ chÆ°a cÃ³ tÃªn (1).pdf",
+    "aiScore": 10,
+    "isPass": false,
+    "aiReason": "CV hoàn toàn không liên quan đến vị trí tuyển dụng, từ kinh nghiệm, kỹ năng cho đến chức danh đều thuộc lĩnh vực Nhiếp ảnh.",
+    "createdAt": "2026-05-03T07:36:40.270Z"
+  },
+  {
+    "id": "cv-1777782867053",
+    "name": "Trần Đình Trọng",
+    "phone": "0902712482",
+    "position": "CNC Operator",
+    "cvUrl": "http://localhost:5000/uploads/1777782867049-631097103-Nguyá»n.pdf",
+    "aiScore": 93,
+    "isPass": true,
+    "aiReason": "CV chưa đề cập cụ thể kinh nghiệm làm việc trên các hệ điều hành máy CNC (ví dụ: Fanuc, Siemens) hoặc phần mềm CAM thông dụng.",
+    "createdAt": "2026-05-03T04:34:27.054Z"
+  },
+  {
+    "id": "cv-1777782230582",
+    "name": "Trần Thế Anh",
+    "phone": "0912748213",
+    "position": "Painting Specialist",
+    "cvUrl": "http://localhost:5000/uploads/1777782230529-98798112-Nguyá»n (1).pdf",
+    "aiScore": 0,
+    "isPass": false,
+    "aiReason": "File đính kèm không phải là CV của ứng viên Trần Thế Anh và nội dung không liên quan đến vị trí Chuyên viên Sơn (Painting Specialist).",
+    "createdAt": "2026-05-03T04:23:50.582Z"
+  },
+  {
+    "id": "cv-1777744487087",
+    "name": "Nguyễn Công Hiếu",
+    "phone": "0913045234",
+    "position": "CNC Operator",
+    "cvUrl": "http://localhost:5000/uploads/1777744486836-543612458-Nguyá»n (2).pdf",
+    "aiScore": 1,
+    "isPass": false,
+    "aiReason": "File đính kèm không phải là CV của ứng viên Nguyễn Công Hiếu và không có kinh nghiệm nào liên quan đến vị trí Vận hành máy CNC.",
+    "createdAt": "2026-05-02T17:54:47.089Z"
+  },
+  {
+    "id": "cv-1777743102062",
+    "name": "Michael",
+    "phone": "0934812343",
+    "position": "CNC Operator",
+    "cvUrl": "http://localhost:5000/uploads/1777743102053-190576416-Nguyá»n.pdf",
+    "aiScore": 71,
+    "isPass": true,
+    "aiReason": "Đang chờ HR xem xét (Hệ thống AI tạm thời bị nghẽn mạng).",
+    "createdAt": "2026-05-02T17:31:42.062Z"
+  },
+  {
+    "id": "cv-1777743005068",
+    "name": "Nguyễn Mỹ Anh",
+    "phone": "0903834576",
+    "position": "CNC Operator",
+    "cvUrl": "http://localhost:5000/uploads/1777743004996-453486263-Nguyá»n (2).pdf",
+    "aiScore": 81,
+    "isPass": true,
+    "aiReason": "Đang chờ HR xem xét (Hệ thống AI tạm thời bị nghẽn mạng).",
+    "createdAt": "2026-05-02T17:30:05.068Z"
+  },
+  {
+    "id": "cv-1777689902193",
+    "name": "Khổng Tú Quỳnh",
+    "phone": "0945678902",
+    "position": "CNC Operator",
+    "cvUrl": "http://localhost:5000/uploads/1777689902183-615874885-Nguyá»n (1).pdf",
+    "aiScore": 1,
+    "isPass": false,
+    "aiReason": "Ứng viên hoàn toàn không có kinh nghiệm, học vấn hay kỹ năng liên quan đến vị trí vận hành máy CNC.",
+    "createdAt": "2026-05-02T02:45:02.193Z"
+  },
+  {
+    "id": "cv-1777689841938",
+    "name": "Nguyễn Mai Lan",
+    "phone": "0904371454",
+    "position": "Web Developer",
+    "cvUrl": "http://localhost:5000/uploads/1777689841931-581533919-Nguyá»n (3).pdf",
+    "aiScore": 55,
+    "isPass": false,
+    "aiReason": "CV không liệt kê bất kỳ công nghệ, ngôn ngữ lập trình hay framework cụ thể nào liên quan đến phát triển web.",
+    "createdAt": "2026-05-02T02:44:01.938Z"
+  },
+  {
+    "id": "cv-1777688692353",
+    "name": "Nguyễn Minh Hoàng",
+    "phone": "0987654321",
+    "position": "Web Developer",
+    "cvUrl": "http://localhost:5000/uploads/1777688692348-957304079-Nguyá»n (2).pdf",
+    "aiScore": 10,
+    "isPass": false,
+    "aiReason": "Ứng viên hoàn toàn không có kinh nghiệm, kỹ năng hay học vấn liên quan đến vị trí Lập trình viên Web.",
+    "createdAt": "2026-05-02T02:24:52.353Z"
+  },
+  {
+    "id": "cv-1777688441678",
+    "name": "Hoàng Tú Quỳnh",
+    "phone": "09055448899",
+    "position": "Web Developer",
+    "cvUrl": "http://localhost:5000/uploads/1777688441653-453813365-Nguyá»n (1).pdf",
+    "aiScore": 5,
+    "isPass": false,
+    "aiReason": "Ứng viên hoàn toàn không có kỹ năng và kinh nghiệm liên quan đến vị trí Web Developer.",
+    "createdAt": "2026-05-02T02:20:41.678Z"
+  },
+  {
+    "id": "cv-1777661568035",
+    "name": "Nguyễn Ngọc Khôi",
+    "phone": "0912375673",
+    "position": "Web Developer",
+    "cvUrl": "http://localhost:5000/uploads/1777661568012-150638889-Nguyá»n.pdf",
+    "aiScore": 1,
+    "isPass": false,
+    "aiReason": "CV này hoàn toàn dành cho vị trí Vận hành máy CNC (CNC Operator), không hề liên quan đến ngành phát triển web.",
+    "createdAt": "2026-05-01T18:52:48.035Z"
+  },
+  {
+    "id": "cv-1777661467285",
+    "name": "Nguyễn Đỉnh Cao",
+    "phone": "0912576931",
+    "position": "Web Developer",
+    "cvUrl": "http://localhost:5000/uploads/1777661467263-242761624-Nguyá»n.pdf",
+    "aiScore": 5,
+    "isPass": false,
+    "aiReason": "Hoàn toàn không có kinh nghiệm, kỹ năng hay trình độ học vấn liên quan đến vị trí Lập trình viên Web.",
+    "createdAt": "2026-05-01T18:51:07.285Z"
+  },
+  {
+    "id": "cv-1777658294161",
+    "name": "Nguyễn Đẳng Cấp",
+    "phone": "0912345678",
+    "position": "CNC Operator",
+    "cvUrl": "http://localhost:5000/uploads/1777658294155-554982606-Nguyá»n.pdf",
+    "aiScore": 87,
+    "isPass": true,
+    "aiReason": "Kiến thức lập trình CNC chỉ ở mức cơ bản và việc bao gồm một chứng chỉ không liên quan làm giảm tính chuyên nghiệp của hồ sơ.",
+    "createdAt": "2026-05-01T17:58:14.161Z"
+  },
+  {
+    "id": "cv-1777654935865",
+    "name": "Trần Quang Khương",
+    "phone": "09017493447",
+    "position": "CNC Operator",
+    "cvUrl": "http://localhost:5000/uploads/1777654935784-664087339-Thiáº¿t káº¿ chÆ°a cÃ³ tÃªn (1).pdf",
+    "aiScore": 5,
+    "isPass": false,
+    "aiReason": "CV này của ứng viên Hoàng Nam An (ngành Nhiếp ảnh), hoàn toàn không có kinh nghiệm hay kỹ năng liên quan đến vị trí Vận hành máy CNC.",
+    "createdAt": "2026-05-01T17:02:15.865Z"
+  },
+  {
+    "id": "cv-1777616860448",
+    "name": "Nguyễn Quang Sang",
+    "phone": "0901128899",
+    "position": "Carbon Cue Maker",
+    "cvUrl": "http://localhost:5000/uploads/1777616860408-908781947-Thiáº¿t káº¿ chÆ°a cÃ³ tÃªn (1).pdf",
+    "aiScore": 1,
+    "isPass": false,
+    "aiReason": "CV này của ứng viên Hoàng Nam An làm nghề Nhiếp ảnh gia, không phải của ứng viên Nguyễn Quang Sang và hoàn toàn không liên quan đến vị trí sản xuất cơ bida.",
+    "createdAt": "2026-05-01T06:27:40.448Z"
+  },
+  {
+    "id": "cv-1777574252459",
+    "name": "Duy Đông",
+    "phone": "0904138549",
+    "position": "Carbon Cue Maker",
+    "cvUrl": "http://localhost:5000/uploads/1777574252440-446155221-Thiáº¿t káº¿ chÆ°a cÃ³ tÃªn (1).pdf",
+    "aiScore": 5,
+    "isPass": false,
+    "aiReason": "Toàn bộ kinh nghiệm, kỹ năng và học vấn của ứng viên là về nhiếp ảnh, hoàn toàn không liên quan đến vị trí sản xuất cơ bida carbon.",
+    "createdAt": "2026-04-30T18:37:32.459Z"
+  },
+  {
+    "id": "cv-1777573557477",
+    "name": "Lê Thị Sâm",
+    "phone": "0904339922",
+    "position": "Carbon Cue Maker",
+    "cvUrl": "http://localhost:5000/uploads/1777573557449-97290123-Thiáº¿t káº¿ chÆ°a cÃ³ tÃªn (1).pdf",
+    "aiScore": 5,
+    "isPass": false,
+    "aiReason": "Toàn bộ kinh nghiệm và kỹ năng của ứng viên tập trung vào nhiếp ảnh và không có bất kỳ thông tin nào liên quan đến kỹ thuật chế tạo, vật liệu (sợi carbon), thủ công mỹ nghệ, sản xuất hoặc thiết kế gậy bida (cue), điều này không phù hợp với vị trí Carbon Cue Maker.",
+    "createdAt": "2026-04-30T18:25:57.477Z"
+  },
+  {
+    "id": "cv-1777573479759",
+    "name": "Nguyễn Quang Hưng",
+    "phone": "0901518899",
+    "position": "Carbon Cue Maker",
+    "cvUrl": "http://localhost:5000/uploads/1777573479633-159887407-Thiáº¿t káº¿ chÆ°a cÃ³ tÃªn (1).pdf",
+    "aiScore": 10,
+    "isPass": false,
+    "aiReason": "Kinh nghiệm, kỹ năng và học vấn của ứng viên hoàn toàn không liên quan đến vị trí Carbon Cue Maker, vốn đòi hỏi kiến thức về vật liệu carbon, kỹ thuật chế tạo chính xác và sản xuất.",
+    "createdAt": "2026-04-30T18:24:39.759Z"
+  }
+]
